@@ -1,13 +1,13 @@
 # <h1 align="center">Hi 😁, I'm Diego Alejandro</h1>
 <h3 align="center">🧐 I am a young man interested in frontend developer (junior)</h3>
 
-<h3 align="center"> 📈 I am currently learning about React Js, Spring boot, PostgreSql, Nodejs, typeScript,CSS. </h3>
+ 📈 I am currently learning about React Js, Spring boot, PostgreSql, Nodejs, typeScript,CSS. 
 
-<h3 align="center"> 🌱 In my spare time I like to listen to music, read and play basketball. </h3>
+ 🌱 In my spare time I like to listen to music, read and play basketball. 
 
-<h3 align="center"> 🤓 I have intermediate knowledge in JAVA, HTML5, CSS, JavaScript, Git, Github. </h3>
+ 🤓 I have intermediate knowledge in JAVA, HTML5, CSS, JavaScript, Git, Github.
 
-<h3 align="center"> 🤝 Work methodologies that I know are CANVAS AND SCRUM. </h3>
+ 🤝 Work methodologies that I know are CANVAS AND SCRUM. 
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
