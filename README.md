@@ -8,6 +8,9 @@
  🤓 I have intermediate knowledge in JAVA, HTML5, CSS, JavaScript, Git, Github.
 
  🤝 Work methodologies that I know are CANVAS AND SCRUM. 
+ 
+ # <h3 align="center">" FAILING IS PART OF LIFE "</h3>
+ #
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
